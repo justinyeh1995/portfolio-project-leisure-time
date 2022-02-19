@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-project-leisure-time",
+  "version": "1.0.0",
+  "description": "My toy project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinyeh1995/portfolio-project-leisure-time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinyeh1995/portfolio-project-leisure-time/issues"
+  },
+  "homepage": "https://github.com/justinyeh1995/portfolio-project-leisure-time#readme"
+}
